@@ -1,17 +1,25 @@
-# widget_study2
+# WordSkills Preparation Flutter Widget Study 
 
-A new Flutter project.
+**기능경기대회 준비를 위한 Flutter 위젯 총 486개를 정리하는 저장소**
 
-## Getting Started
+천천히 위젯을 정리한 내용을 추가할 것이며 제가 공부하며 위젯에 대한 설명과 예제, 각 프로퍼티에 대한 간단한 설명을 적을 것 입니다.
 
-This project is a starting point for a Flutter application.
+| 파일 | 개수 | 용도 |
+|---|---|---|
+| accessibility | 7 | 접근성 (시맨틱스) |
+| animation | 47 | 애니메이션 (암시적·명시적, 리스트, 화면 전환) |
+| async | 3 | 비동기 (Future·Stream 빌더) |
+| basics | 24 | 기본 (앱 구조, 위젯 기본, 데이터 전달, 환경 정보) |
+| button | 18 | 버튼 (Material·FAB·그룹·Cupertino) |
+| dialog_overlay | 46 | 다이얼로그·오버레이·메뉴 (스낵바, 바텀시트, 툴팁 포함) |
+| display | 21 | 정보 표시 (카드, 칩, 배지, 진행 표시, 데이터 테이블) |
+| image_media | 17 | 이미지·에셋·미디어 (플랫폼 뷰 포함) |
+| input_form | 49 | 입력·폼 (텍스트, 체크·라디오·스위치, 슬라이더, 드롭다운, 날짜·시간 선택) |
+| interaction | 26 | 상호작용 (제스처, 마우스, 드래그, 포커스, 키보드) |
+| layout | 40 | 레이아웃 (크기·위치, 배치, 겹치기, 표, 반응형) |
+| list_scroll | 60 | 리스트·스크롤 (그리드, 페이지, 펼침 목록, Sliver) |
+| navigation | 40 | 내비게이션 (라우트, 앱바, 하단·사이드 내비, 탭) |
+| painting_effects | 24 | 페인팅·효과 (투명도, 클립, 변형, 필터, 직접 그리기) |
+| style_theme | 34 | 스타일·테마 (테마, 컴포넌트 테마, 꾸미기) |
+| text_style | 30 | 텍스트·아이콘 (텍스트 선택 포함) |
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

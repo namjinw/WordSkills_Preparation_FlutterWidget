@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:widget_study2/layout/Container.dart';
+import 'package:widget_study2/layout/padding.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,7 +18,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: .fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const ContainerWidget(),
+      home: const PaddingWidget(),
     );
   }
 }
