@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:widget_study2/layout/align.dart';
 import 'package:widget_study2/layout/center.dart';
 import 'package:widget_study2/layout/container.dart';
 import 'package:widget_study2/layout/padding.dart';
@@ -19,7 +20,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: .fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const CenterWidget(),
+      home: const AlignWidget(),
     );
   }
 }

@@ -4,7 +4,7 @@
 - [x] Container
 - [x] Padding
 - [X] Center
-- [ ] Align
+- [X] Align
 - [ ] SizedBox
 - [ ] ConstrainedBox
 - [ ] UnconstrainedBox
