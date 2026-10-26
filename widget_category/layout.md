@@ -3,9 +3,9 @@
 ## 단일 자식 (크기 & 위치)
 - [x] Container
 - [x] Padding
-- [X] Center
-- [X] Align
-- [ ] SizedBox
+- [x] Center
+- [x] Align
+- [x] SizedBox
 - [ ] ConstrainedBox
 - [ ] UnconstrainedBox
 - [ ] ConstraintsTransformBox
