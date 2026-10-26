@@ -3,7 +3,7 @@
 ## 단일 자식 (크기 & 위치)
 - [x] Container
 - [x] Padding
-- [ ] Center
+- [X] Center
 - [ ] Align
 - [ ] SizedBox
 - [ ] ConstrainedBox

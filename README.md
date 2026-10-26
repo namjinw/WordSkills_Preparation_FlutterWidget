@@ -8,7 +8,7 @@
 |---|---|---|
 | accessibility | 7 | 접근성 (시맨틱스) |
 | animation | 47 | 애니메이션 (암시적·명시적, 리스트, 화면 전환) |
-| async | 3 | 비동기 (Future·Stream 빌더) |
+| async | 3 | 비동기 (Future·St`ream 빌더) |
 | basics | 24 | 기본 (앱 구조, 위젯 기본, 데이터 전달, 환경 정보) |
 | button | 18 | 버튼 (Material·FAB·그룹·Cupertino) |
 | dialog_overlay | 46 | 다이얼로그·오버레이·메뉴 (스낵바, 바텀시트, 툴팁 포함) |

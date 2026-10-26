@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:widget_study2/layout/Container.dart';
+import 'package:widget_study2/layout/center.dart';
+import 'package:widget_study2/layout/container.dart';
 import 'package:widget_study2/layout/padding.dart';
 
 void main() {
@@ -18,7 +19,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: .fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const PaddingWidget(),
+      home: const CenterWidget(),
     );
   }
 }
