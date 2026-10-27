@@ -25,8 +25,8 @@
 - [x] Row
 - [x] Column
 - [x] Flex
-- [ ] Expanded
-- [ ] Flexible
+- [x] Expanded
+- [x] Flexible
 - [ ] Spacer
 - [ ] Wrap
 - [ ] Flow
