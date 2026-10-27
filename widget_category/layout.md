@@ -22,7 +22,7 @@
 - [ ] CustomSingleChildLayout
 
 ## 다중 자식 (배치)
-- [ ] Row
+- [x] Row
 - [ ] Column
 - [ ] Flex
 - [ ] Expanded
