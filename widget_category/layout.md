@@ -24,7 +24,7 @@
 ## 다중 자식 (배치)
 - [x] Row
 - [x] Column
-- [ ] Flex
+- [x] Flex
 - [ ] Expanded
 - [ ] Flexible
 - [ ] Spacer
