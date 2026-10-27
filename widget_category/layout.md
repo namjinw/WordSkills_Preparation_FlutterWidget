@@ -23,7 +23,7 @@
 
 ## 다중 자식 (배치)
 - [x] Row
-- [ ] Column
+- [x] Column
 - [ ] Flex
 - [ ] Expanded
 - [ ] Flexible
