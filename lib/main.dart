@@ -4,6 +4,7 @@ import 'package:widget_study2/layout/center.dart';
 import 'package:widget_study2/layout/container.dart';
 import 'package:widget_study2/layout/flexible.dart';
 import 'package:widget_study2/layout/padding.dart';
+import 'package:widget_study2/layout/stack.dart';
 
 void main() {
   runApp(const MyApp());
@@ -21,7 +22,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: .fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const FlexibleWidget(),
+      home: const StackWidget(),
     );
   }
 }

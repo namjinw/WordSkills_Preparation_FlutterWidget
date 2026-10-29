@@ -36,7 +36,7 @@
 - [ ] LayoutId
 
 ## 겹치기
-- [ ] Stack
+- [x] Stack
 - [ ] IndexedStack
 - [ ] Positioned
 - [ ] PositionedDirectional
